@@ -1,0 +1,17 @@
+{
+  "name": "HelloWorldAlexa",
+  "version": "1.0.0",
+  "description": "Alexa Cookbook samples",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "aws-sdk": "^2.16.0",
+    "cheerio": "^0.22.0",
+    "dynasty": "^0.2.6",
+    "request": "^2.79.0",
+    "tinyreq": "^3.2.0"
+  },
+  "devDependencies": {},
+  "author": "Thom",
+  "license": "SEE LICENSE IN license.md"
+}

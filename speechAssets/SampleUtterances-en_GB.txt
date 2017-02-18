@@ -1,0 +1,7 @@
+TodaysWorkoutIntent what is the workout of the day
+TodaysWorkoutIntent what is the wot
+TodaysWorkoutIntent crossfit workout
+
+YesterdaysWorkoutIntent what was the workout of yesterday
+YesterdaysWorkoutIntent what was yesterdays workout
+YesterdaysWorkoutIntent what did i do yesterday
